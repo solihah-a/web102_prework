@@ -24,9 +24,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.awesomescreenshot.com/embed?id=35931122&shareKey=83bf775408250e4bc7749e79fe475f04' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<iframe frameBorder='0' width='640' height='360' webkitallowfullscreen mozallowfullscreen allowfullscreen src="https://www.awesomescreenshot.com/embed?id=35931122&shareKey=83bf775408250e4bc7749e79fe475f04"></iframe>
-<iframe src='https://www.awesomescreenshot.com/embed?id=35931122&shareKey=83bf775408250e4bc7749e79fe475f04' title='Video Walkthrough' width='640' height='360' frameborder='0' allowfullscreen></iframe>
+[Video Walkthrough](https://www.awesomescreenshot.com/embed?id=35931122&shareKey=83bf775408250e4bc7749e79fe475f04)
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
