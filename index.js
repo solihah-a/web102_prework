@@ -188,7 +188,7 @@ secondGameContainer.appendChild(secondGameElement);
 
 
 //optional features i added, doesnt work
-function showSearchedGame() {
+/*function showSearchedGame() {
     const searchInput = document.getElementById('search-input');
     const searchBtn = document.getElementById('search-btn');
 
@@ -208,7 +208,7 @@ function showSearchedGame() {
             searchBtn.click();
         }
     });
-}
+}*/
 
 //this works but the page is not cleared for searches and it keeps adding the same game 
 //to the page when searched is clicked
