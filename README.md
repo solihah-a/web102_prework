@@ -37,7 +37,7 @@ Video created with Awesome Screenshot.
 
 ## Notes
 
-One of the challeneges I encountered while builidng the app was understanding ternary operators. Challenge 6 was confusing in general. I am so used to write an if statement or a for loop so I felt like the time I used trying to understand ternary operators, I would have used to write an if statement. I understand why it's needed but I'll need to get more practice if I really want to master it. 
+One of the challeneges I encountered while builidng the app was understanding ternary operators. Challenge 6 was confusing in general. I am so used to writing an if statement or a for loop so I felt like the time I used trying to understand ternary operators, I would have used to write an if statement. I understand why it's needed but I'll need to get more practice if I really want to master it. 
 
 ## License
 
